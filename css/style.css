@@ -1,0 +1,92 @@
+body {
+	background-color: #F2E3E3;
+}
+
+.logo {
+	width: 100%;
+}
+
+.banner {
+	width: 1000px;
+	height:500px;
+	position: relative;
+	left: 0px;
+}
+
+.descripcion{
+	
+	position: relative;
+	left: 600px;
+	top: -500px;
+	margin-top:15px;
+	padding: 10px;
+}
+h1 {
+	font-size: 26px;
+	font-family: Arial;
+	color:#EEEDED;
+	padding: 10px;
+	display: inline-block;
+}
+
+.resumen {
+	width: 50%;
+	font-size: 11px;
+	font-family: Arial;
+	color: white;
+	
+	top:180px;
+	left:-20px;
+
+	padding: 10px;
+	border: 1px solid;
+}
+.edad {
+	border-radius: 30px;
+	color:green;
+	border:1px solid green;
+	text-align: center;
+}
+.linea{
+	color: white;
+}
+li {
+	list-style: none;
+	color: white;
+}
+.amarillo {
+	width: 1000px;
+	height: 200px;
+	top:-305px;
+	background-color:#D3B12B;
+	float:right;
+	
+	position: relative;
+	left: 28px;
+
+}
+.small  {
+	width: 120px;
+	height: 120px;
+	margin:20px 0px 0px 7px;
+	display: inline-block;
+	float: left;
+	position: relative;
+	
+	padding: 0px;
+}
+
+.fotos {
+	margin-right: 10px;
+}
+video {
+	background-color: #FDFAFA;
+}
+
+.big {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.final {
+	background-color:;
